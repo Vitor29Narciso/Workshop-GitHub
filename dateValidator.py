@@ -59,6 +59,6 @@ def main():
     if yearVal and monthVal:
         if checkDay(dateArray[0],dateArray[1],dateArray[2]):
             print('The date',date,'is correct!')
-            print('But the best day is 29th of April')
+            print('But the best day is 29th of April!')
         
 main()
